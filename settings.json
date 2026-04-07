@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SigmaJacob1.aternos.me",
+    "ip": "pipefish.aternos.host:44226",
     "port": 44226,
     "version": "1.21.11",
     "try-creative": true
